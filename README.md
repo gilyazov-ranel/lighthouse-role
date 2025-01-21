@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 lighthouse-role
 =========
 
@@ -22,5 +21,4 @@ Author Information
 
 Ranel Gilyazov
 =======
-# lighthouse-role
->>>>>>> 5bab5c3 (Initial commit)
+
